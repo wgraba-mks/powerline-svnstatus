@@ -1,0 +1,2 @@
+black
+powerline-status ~= 2.7
